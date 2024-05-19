@@ -89,13 +89,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function adjustViewport() {
     var width = window.innerWidth;
-    var height = window.innerHeight;
+    var viewport = document.querySelector("meta[name=viewport]");
 
-    if (width >= 1280 && width <= 1920) {
-        var viewport = document.querySelector("meta[name=viewport]");
+    if (width >= 992 && width <= 1920) {
         viewport.setAttribute('content', 'width=device-width, initial-scale=0.75');
     } else {
-        var viewport = document.querySelector("meta[name=viewport]");
         viewport.setAttribute('content', 'width=device-width, initial-scale=1.0');
     }
 }

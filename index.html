@@ -6,6 +6,7 @@
     <meta name="keywords" content="​Боксеры, Миссия, ​О нас, Партнеры, Контакты, ​номерадрес, Мерч">
     <meta name="description" content="">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ивенты</title>
 
     <link rel="icon" type="image/png" href="images/favicon-32x32.png">
@@ -500,4 +501,16 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
         </div>
     </div>
 </div>
-</body></html>
+</body>
+<script>
+  // Функция для проверки, является ли устройство ноутбуком
+  function isLaptop() {
+      return /Macintosh|Windows.*\bNT\b/.test(navigator.userAgent) && window.innerWidth <= 940;
+  }
+
+  // Применение масштабирования только на ноутбуках
+  if (isLaptop()) {
+      document.body.style.zoom = "0.75";
+  }
+</script>
+</html>

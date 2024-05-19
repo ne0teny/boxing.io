@@ -28,7 +28,7 @@
     min-height: 232px;
   }
 } .u-section-2 {
-  background-image: url("images/Rectangle 2.png");
+  background-image: url("images/Rectangle 2.PNG");
   background-position: 50% 50%;
 }
 
@@ -1423,7 +1423,7 @@
     padding: 16px 20px;
   }
 }.u-section-10 .u-sheet-1 {
-  min-height: 600px;
+  min-height: 400px;
 }
 
 .u-section-10 .u-text-1 {
@@ -1439,7 +1439,7 @@
 .u-section-10 .u-text-3 {
   font-size: 6rem;
   font-weight: 700;
-  margin: 6px 261px 0 auto;
+  margin: -190px 261px 0 auto;
 }
 
 .u-section-10 .u-text-4 {
@@ -1577,6 +1577,7 @@
   .u-section-10 .u-text-3 {
     font-size: 2.25rem;
     margin-top: -6px;
+    top: -100px;
   }
 
   .u-section-10 .u-text-4 {
@@ -1970,7 +1971,7 @@
   margin: 0px 0 -241 auto;
   left: 63%;
   margin-top: -200px;
-  top: 160px;
+  top: 20px;
 }
 
 .u-section-13 .u-text-2 {

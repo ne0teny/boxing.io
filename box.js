@@ -100,3 +100,4 @@ function adjustViewport() {
 
 window.onload = adjustViewport;
 window.onresize = adjustViewport;
+

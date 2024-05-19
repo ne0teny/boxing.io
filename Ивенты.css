@@ -11,12 +11,6 @@
   }
 }
 
-@media (max-width: 991px) {
-   .u-section-1 {
-    min-height: 490px;
-  }
-}
-
 @media (max-width: 767px) {
    .u-section-1 {
     min-height: 368px;
@@ -36,11 +30,6 @@
   min-height: 50vw;
 }
 
-@media (max-width: 991px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 825px;
-  }
-}
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
@@ -351,11 +340,6 @@
   }
 }
 
-@media (max-width: 991px) {
-  .u-section-4 .u-countdown-1 {
-    margin-top: 37px;
-  }
-
   .u-section-4 .u-btn-1 {
     margin-top: 37px;
   }
@@ -632,10 +616,6 @@
   }
 }
 
-@media (max-width: 991px) {
-   .u-section-5 {
-    min-height: 462px;
-  }
 
   .u-section-5 .u-container-layout-2 {
     padding-left: 30px;
@@ -774,11 +754,6 @@
   }
 }
 
-@media (max-width: 991px) {
-  .u-section-6 .u-sheet-1 {
-    min-height: 961px;
-  }
-
   .u-section-6 .u-text-1 {
     width: auto;
   }
@@ -909,11 +884,6 @@
   }
 }
 
-@media (max-width: 991px) {
-  .u-section-7 .u-group-1 {
-    width: 720px;
-  }
-}
 
 @media (max-width: 767px) {
   .u-section-7 .u-sheet-1 {
@@ -1055,10 +1025,6 @@
   }
 }
 
-@media (max-width: 991px) {
-  .u-section-8 .u-sheet-1 {
-    min-height: 929px;
-  }
 
   .u-section-8 .u-text-1 {
     width: 207px;
@@ -1251,10 +1217,6 @@
   }
 }
 
-@media (max-width: 991px) {
-  .u-section-9 .u-text-1 {
-    margin-top: 114px;
-  }
 
   .u-section-9 .u-layout-wrap-1 {
     margin-top: 52px;
@@ -1454,11 +1416,6 @@
   }
 }
 
-@media (max-width: 991px) {
-  .u-section-10 .u-sheet-1 {
-    min-height: 521px;
-  }
-
   .u-section-10 .u-text-1 {
     margin-top: 65px;
     margin-right: 126px;
@@ -1564,11 +1521,6 @@
   margin: 60px auto;
 }
 
-@media (max-width: 991px) {
-  .u-section-11 .u-map-1 {
-    width: 720px;
-  }
-}
 
 @media (max-width: 767px) {
   .u-section-11 .u-map-1 {
@@ -1750,11 +1702,6 @@
     height: auto;
   }
 }
-
-@media (max-width: 991px) {
-  .u-section-12 .u-sheet-1 {
-    min-height: 565px;
-  }
 
   .u-section-12 .u-group-1 {
     width: 720px;
@@ -2011,11 +1958,6 @@
     margin-right: 442px;
   }
 }
-
-@media (max-width: 991px) {
-  .u-section-13 .u-sheet-1 {
-    min-height: 514px;
-  }
 
   .u-section-13 .u-text-1 {
     width: auto;
